@@ -1,0 +1,6 @@
+Sublime:
+
+Find what: ^([^\s]*)\s
+Replace with: \1|
+
+Replace All
